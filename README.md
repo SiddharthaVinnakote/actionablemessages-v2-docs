@@ -6,7 +6,7 @@ Office 365 enables you enhance productivity with Outlook Actionable Messages, wh
 
 **Note**
 
-Actionable messages are also available in Microsoft Teams. Even better, you can build a single integration that delivers action requests across Outlook and Teams. See [**Universal Actions for Adaptive Cards**  ](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/connectors/connectors)for more information.
+Actionable messages are also available in Microsoft Teams. Even better, you can build a single integration that delivers action requests across Outlook and Teams. See [**Universal Actions for Adaptive Cards**  ](https://docs.microsoft.com/en-us/microsoftteams/platform/task-modules-and-cards/cards/universal-actions-for-adaptive-cards/overview?tabs=mobile)for more information.
 
 **User experience**
 
