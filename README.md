@@ -39,11 +39,11 @@ Actionable messages are available to all customer mailboxes on Exchange Online i
 | |
 | Outlook on the web for Office 365 | Yes | 1.4 |
 | --- | --- | --- |
-| Office 365 ProPlus Monthly Channel | Yes, in version 1805, Build 9330 | 1.0(Support for version 1.4 coming soon) |
+| Office 365 ProPlus Monthly Channel | Yes, in version 1805, Build 9330 | 1.4 |
 | --- | --- | --- |
-| Office 365 ProPlus Semi-Annual Channel (Targeted) | Yes, in version 1808, Build 10730.20262 | 1.0(Support for version 1.4 coming soon) |
+| Office 365 ProPlus Semi-Annual Channel (Targeted) | Yes, in version 1808, Build 10730.20262 | 1.4 |
 | --- | --- | --- |
-| Office 365 ProPlus Semi-Annual Channel | Yes, in version 1808, Build 10730.20264 | 1.0(Support for version 1.4 coming soon) |
+| Office 365 ProPlus Semi-Annual Channel | Yes, in version 1808, Build 10730.20264 | 1.4 |
 | --- | --- | --- |
 | Outlook 2016 on Mac | Yes, in version 16.38, Build 20060702 | 1.4
 Yes, in version 16.49, Build 21050901 |
